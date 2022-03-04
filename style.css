@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(yellow,rgb(9, 247, 9));
+    text-align: center;
+    color: white;
+    font-family: 'Satisfy', cursive;
+    font-size: 23px;
+}
+#webcam,#captured{
+ height: 400px; 
+ width:400px ;  
+ border: 2px black dashed;
+ border-radius: 4px;
+}
+#imagebtn,#identify{
+    font-size: 18px;
+    background-color:black ;
+    border:2px white solid;
+    border-radius: 5px;
+    font-family: 'Satisfy', cursive;
+    box-shadow: 2px 2px 20px orangered;
+    color: white;
+    }
